@@ -10,3 +10,6 @@ CREATE REACT APPAs a restaurant owner, I want to calculate the total tip offered
 
 Create functionalities as mentioned in the Image in react with the following:1.Create a bill amount field. 2.Create a text input for entering the name of the customers.
 3.Create a select tag for service rating, based on the rating the tip amount will be calculated and displayed. for example:total bill amount: 2000Service 1: excellent (20%)           Service 2: Moderate (10%)          Service 3: bad (5%)                4.Tip from customer 1: (2000) * 20%   -Customer tip -400 RsTip from customer 2: (2500) * 10% -Customertip -250 RsTip from customer 3: (5000) * 5% -Customertip -250 Rs5.When customer clicks on Add customer buttonafter filling the details, calculate and display the tip for the customer and add the details to the output area dynamically.6.Add a Calculate button to view total customersand total tippaid.
+
+
+https://tip-calculator-with-react-htor.vercel.app/
